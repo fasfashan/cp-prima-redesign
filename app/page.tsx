@@ -101,7 +101,7 @@ export default function HomePage() {
           <h3 className="text-3xl font-bold text-center text-[rgba(0,65,107,1)] mb-12">
             Our Partners
           </h3>
-          <div className="grid   grid-cols m-auto md:grid-cols-3 lg:grid-cols-6 gap-6">
+          <div className="grid   grid-cols-2 m-auto md:grid-cols-3 lg:grid-cols-6 gap-6">
             {partners.map((partner, i) => (
               <div key={i}>
                 <Image
