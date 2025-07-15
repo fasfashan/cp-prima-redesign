@@ -119,7 +119,7 @@ export default function HomePage() {
 
       {/* Our Products */}
       <section className="py-16 bg-gray-50">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-8">
           <h3 className="text-3xl font-bold text-center text-[rgba(0,65,107,1)] mb-12">
             Our Products
           </h3>
@@ -197,7 +197,7 @@ export default function HomePage() {
 
       {/* Shrimp Information */}
       <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <h3 className="text-3xl font-bold text-[rgba(0,65,107,1)]">
@@ -235,7 +235,7 @@ export default function HomePage() {
 
       {/* Latest Articles */}
       <section className="py-16 bg-gray-50">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-8">
           <h3 className="text-3xl font-bold text-center text-[rgba(0,65,107,1)] mb-12">
             Latest Articles
           </h3>
@@ -329,7 +329,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="bg-[rgba(0,65,107,1)] text-white py-12">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-8">
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div>
               <div className="flex items-center space-x-2 mb-4">
