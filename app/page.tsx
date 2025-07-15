@@ -96,7 +96,7 @@ export default function HomePage() {
       </section>
 
       {/* Our Partners */}
-      <section className="py-16 bg-white">
+      <section className="py-14 bg-white">
         <div className="container mx-auto px-8 justify-center">
           <h3 className="text-3xl font-bold text-center text-[rgba(0,65,107,1)] mb-12">
             Our Partners
